@@ -6,4 +6,5 @@ Our team's project is a Package Identifier. It scans packages and identidies who
 
 ### Workflow
 **Arduino**  | Capture image via LiveOV7670 camera module and sent it to computer.
+
 **Python**   | Use Google Cloud Vision to extract text from image. Identify name and provide what group (M.4/5/6) are they in. Send email to notify package owner. 
